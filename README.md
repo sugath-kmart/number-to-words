@@ -2,12 +2,12 @@
 
 Create a function that converts a price into words.
 
-### Test Case 01
+### Example
 
 Input 
 
 ```  
-562.50  
+$562.50  
 ```
 
 Output  
