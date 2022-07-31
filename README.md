@@ -17,7 +17,7 @@ Five Hundred And Sixty Two Dollars And Fifty Cents
 
 ### Task
 - Download the number-to-words solution as a zip file to your local computer
-- Implement the `ConvertToWords` method in `NumberToWords.cs`
+- Implement the `ConvertToWords` method in `NumberToWords.cs` Assume the accepted price range is from `$0 to $1 million`. 
 
 ```c#
     public class NumberToWords
