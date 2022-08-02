@@ -8,9 +8,9 @@ namespace NumberToWordsConverter
         {
             Console.WriteLine("Enter a Price to convert to words");
 
-            var convertedPricer = NumberToWords.ConvertToWords(Console.ReadLine());
+            var convertedPrice = NumberToWords.ConvertToWords(Console.ReadLine());
 
-            Console.WriteLine("Price in words is \n{0}", convertedPricer);
+            Console.WriteLine("Price in words is \n{0}", convertedPrice);
             Console.ReadKey();
         }
     }
