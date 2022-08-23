@@ -7,7 +7,7 @@ Create a function that converts a price into words.
 Input 
 
 ```  
-$562.50  
+562.50  
 ```
 
 Output  
